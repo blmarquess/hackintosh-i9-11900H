@@ -1,5 +1,11 @@
 # hackintosh-i9-11900H
 
+<div align="center">
+
+![Print of config](assets/Config.png)
+
+</div>
+
 ## Complete hardware specs
 
 - Intel i9 11900H @ Overclocked (All cores 4.4Ghz)
