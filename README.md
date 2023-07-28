@@ -29,7 +29,7 @@
 
 ## What doesn't work
 
-- [ ] Sleep? await for test
+- [ ] Sleep - this set of hardware does not have a correct functioning of this functionality even in windows os.
 
 ## Kexts used
 
